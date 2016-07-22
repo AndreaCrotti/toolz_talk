@@ -1,0 +1,16 @@
+#+AUTHOR: Andrea Crotti @andreacrotti
+#+TITLE: Toolz: being more functional
+#+OPTIONS: num:nil ^:nil toc:nil timestamp:nil reveal_single_file:t reveal_progress:t reveal_control:t reveal_overview:t
+#+REVEAL_TRANS: fade
+#+REVEAL_SPEED: fast
+#+REVEAL_PLUGINS: notes
+#+EMAIL: andrea.crotti@iwoca.co.uk
+
+* Functional programming
+
+* Why FP
+
+* References
+
+- https://github.com/pytoolz/toolz
+- https://en.wikipedia.org/wiki/Persistent_data_structure
