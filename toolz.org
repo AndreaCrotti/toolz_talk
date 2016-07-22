@@ -10,7 +10,28 @@
 
 * Why FP
 
+ - Assignments
+ - Mutable data structures
+ - While/For Loops
+ - Control Over Order of Execution
+ - Side Effects
+
+[[./images/wtf.gif]]
+
+* Enter toolz
+
+Collection of *functions* that are:
+
+# They interoperate due to their use of core data structures.
+# They don’t change their inputs or rely on external state.
+# They don’t run until absolutely necessary, allowing them to support large streaming data sets.
+
+- *Composable*
+- *Pure*
+- *Lazy*
+
 * References
 
 - https://github.com/pytoolz/toolz
 - https://en.wikipedia.org/wiki/Persistent_data_structure
+- http://www.ibm.com/developerworks/library/j-ft20/
